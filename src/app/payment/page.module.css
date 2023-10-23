@@ -1,0 +1,9 @@
+.mainDiv {
+  min-height: 100vh;
+  display: flex;
+  justify-content: space-between;
+}
+.title {
+  margin-bottom: 20px;
+  cursor: pointer;
+}

@@ -1,0 +1,10 @@
+.mainDiv {
+  padding: 0;
+  margin: 0;
+}
+.btn {
+  background-color: rgb(255, 128, 99);
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
